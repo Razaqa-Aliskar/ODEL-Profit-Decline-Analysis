@@ -8,17 +8,19 @@ Underperforming outlets and high operational costs
  /High debt and financial constraints
 
 2. Methodology:
-Data from ODEL PLC annual reports
+Data from ODEL PLC annual reports (2012-2023)
 
-3. Tools: Python, Excel, RStudio, Power BI, Google Colab for 
+Data preprocessing and cleaning and prediction models by regression modeling
+
+4. Tools: Python, Excel, RStudio, Power BI, Google Colab for 
 Visualizations and financial modeling
 
-4. Recommendations:
+5. Recommendations:
 Optimize store network (focus on profitable locations)
  /Invest in market research and digital transformation
  /Improve financial management and debt restructuring
 
-5. Contents:
-Datasets (raw & cleaned)
+6. Contents:
+Datasets (raw & cleaned) - 
  /Python scripts 
  /Presentation summarizing findings
